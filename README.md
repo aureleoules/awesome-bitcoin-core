@@ -26,6 +26,7 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 - [A gentle introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8)
 - [Contributing guidelines](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
 - [Developer notes](https://github.com/bitcoin/bitcoin/blob/master/doc/developer-notes.md)
+- [High-priority for review pull requests](https://github.com/orgs/bitcoin/projects/1?query=is%3Aopen+sort%3Aupdated-desc)
 - [How to contribute pull requests](how-to-contribute-pull-requests-to-bitcoin-core)
 - [How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
 - [On reviewing, and helping those who do it](https://jonatack.github.io/articles/on-reviewing-and-helping-those-who-do-it)
