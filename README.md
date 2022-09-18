@@ -18,7 +18,7 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 - [Contributing](#contributing)
 
 ## Communications
-- [Bitcoin Core IRC channel](https://webchat.freenode.net/?channels=bitcoin-core-dev)
+- [Bitcoin Core IRC channel](https://web.libera.chat/?channels=#bitcoin-core-dev) - IRC channel for Bitcoin Core developers.
 - [Bitcoin Core mailing list](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-core-dev)
 - [Bitcoin StackExchange](https://bitcoin.stackexchange.com/)
 
