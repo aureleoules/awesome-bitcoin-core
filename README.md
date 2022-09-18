@@ -34,7 +34,7 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 
 ## Documentation
 - [Bitcoin Core Developer Documentation](https://bitcoincore.org/en/doc/)
-- [Onboarding to Bitcoin Core](https://github.com/willcl-ark/onboarding-to-bitcoin-core)
+- [Onboarding to Bitcoin Core](https://github.com/chaincodelabs/onboarding-to-bitcoin-core)
 
 ## Explorers
 - [Blockstream Explorer](https://blockstream.info/)
