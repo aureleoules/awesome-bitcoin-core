@@ -1,22 +1,20 @@
-# Awesome Bitcoin Core
+<!--lint disable awesome-git-repo-age-->
+# Awesome Bitcoin Core [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+A curated list of Bitcoin Core resources for contributors and developers. 
 
-A curated list of Bitcoin Core resources for contributors, developers, and users.
-
-- [Awesome Bitcoin Core](#awesome-bitcoin-core)
-  - [Communications](#communications)
-  - [Contributing to Bitcoin Core](#contributing-to-bitcoin-core)
-  - [Documentation](#documentation)
-  - [Explorers](#explorers)
-  - [Learn C++](#learn-c)
-  - [Read](#read)
-  - [Seminars & Talks](#seminars--talks)
-  - [Technical Learning](#technical-learning)
-  - [Testing](#testing)
-  - [Tools](#tools)
-  - [Videos](#videos)
-- [Contributing](#contributing)
+## Contents
+- [Communications](#communications)
+- [Contributing to Bitcoin Core](#contributing-to-bitcoin-core)
+- [Documentation](#documentation)
+- [Explorers](#explorers)
+- [Learn C++](#learn-c)
+- [Read](#read)
+- [Seminars & Talks](#seminars--talks)
+- [Technical Learning](#technical-learning)
+- [Testing](#testing)
+- [Tools](#tools)
+- [Videos](#videos)
 
 ## Communications
 
@@ -40,28 +38,28 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 
 ### Articles
 
-- [A gentle introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8) by Jimmy Song.
-- [Contributing to Bitcoin Core, a personal account](https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b) by John Newbery.
-- [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365) by Amiti Uttarwar.
+- [A gentle introduction to Bitcoin Core Development](https://bitcointechtalk.com/a-gentle-introduction-to-bitcoin-core-development-fdc95eaee6b8) - By Jimmy Song.
+- [Contributing to Bitcoin Core, a personal account](https://bitcointechtalk.com/contributing-to-bitcoin-core-a-personal-account-35f3a594340b) - By John Newbery.
+- [Onboarding to Bitcoin Core](https://medium.com/@amitiu/onboarding-to-bitcoin-core-7c1a83b20365) - By Amiti Uttarwar.
 
 ### Notes by contributors
 
 - Amiti Uttarwar's [notes](https://github.com/amitiuttarwar/bitcoin-notes).
 - Gloria Zhao's [notes](https://github.com/glozow/bitcoin-notes).
-- [Scripts, tools & info for doing Bitcoin Core development and code review](https://github.com/fanquake/core-review) by Michael Ford.
+- [Scripts, tools & info for doing Bitcoin Core development and code review](https://github.com/fanquake/core-review) - By Michael Ford.
 
 ### Podcasts
 
-- [Becoming a Bitcoin Core Developer](https://www.whatbitcoindid.com/podcast/becoming-a-bitcoin-core-developer-with-amiti-uttarwar) with Amiti Uttarwar.
-- [Bitcoin Core Contribution](https://stephanlivera.com/episode/124/) with Jon Atack.
-- [Brink: Bitcoin Development](https://stephanlivera.com/episode/229/) with John Newbery.
-- [Funding Bitcoin Development](https://www.whatbitcoindid.com/podcast/funding-bitcoin-development) with John Newbery.
-- [Learning Bitcoin Core & Hosting PR Review Club](https://stephanlivera.com/episode/216/) with Gloria Zhao.
+- [Becoming a Bitcoin Core Developer](https://www.whatbitcoindid.com/podcast/becoming-a-bitcoin-core-developer-with-amiti-uttarwar) - With Amiti Uttarwar.
+- [Bitcoin Core Contribution](https://stephanlivera.com/episode/124/) - With Jon Atack.
+- [Brink: Bitcoin Development](https://stephanlivera.com/episode/229/) - With John Newbery.
+- [Funding Bitcoin Development](https://www.whatbitcoindid.com/podcast/funding-bitcoin-development) - With John Newbery.
+- [Learning Bitcoin Core & Hosting PR Review Club](https://stephanlivera.com/episode/216/) - With Gloria Zhao.
 
 ### Review Pull requests
 
-- [How to review a Bitcoin Core pull request](https://www.youtube.com/watch?v=u132F0nCjxo) #video by Gloria Zhao.
-- [How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core) by Jon Atack.
+- [How to review a Bitcoin Core pull request](https://www.youtube.com/watch?v=u132F0nCjxo) - By Gloria Zhao (video).
+- [How to review pull requests](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core) - By Jon Atack.
 
 ## Documentation
 
@@ -100,10 +98,10 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 
 ## Technical Learning
 
-- [learnmeabitcoin.com](https://learnmeabitcoin.com/) by Greg Walker.
-- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) by Blockchain Commons.
-- [TeachBitcoin](https://teachbitcoin.io/presentations/#/) by James C.
-- [Understanding the Technical Side of Bitcoin](https://pierre-rochard.medium.com/understanding-the-technical-side-of-bitcoin-2c212dd65c09) by Pierre Rochard.
+- [learnmeabitcoin.com](https://learnmeabitcoin.com/) - By Greg Walker.
+- [Learning Bitcoin from the Command Line](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line) - By Blockchain Commons.
+- [TeachBitcoin](https://teachbitcoin.io/presentations/#/) - By James C.
+- [Understanding the Technical Side of Bitcoin](https://pierre-rochard.medium.com/understanding-the-technical-side-of-bitcoin-2c212dd65c09) - By Pierre Rochard.
 
 ## Testing
 
@@ -117,11 +115,7 @@ A curated list of Bitcoin Core resources for contributors, developers, and users
 
 ## Videos
 
-- [Andreas M. Antonopoulos](https://www.youtube.com/user/aantonop/videos) - free unbiased educational videos on all things Bitcoin and open blockchain.
+- [Andreas M. Antonopoulos](https://www.youtube.com/user/aantonop/videos) - Free unbiased educational videos on all things Bitcoin and open blockchain.
 - [princeton.edu Bitcoin lectures](https://bitcoinbook.cs.princeton.edu/)
-- [Stephan Livera](https://www.youtube.com/c/StephanLivera/videos) - learn more about Bitcoin's economics & technology.
+- [Stephan Livera](https://www.youtube.com/c/StephanLivera/videos) - Learn more about Bitcoin's economics & technology.
 - The Bitcoin Lesson [YouTube playlist](https://www.youtube.com/playlist?list=PLjyTtFk7i2AHvjMo0-ftIVqSNGPcwCaJt) explaining Mining, Transactions, Keys & Addresses, Script.
-
-# Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this list.
