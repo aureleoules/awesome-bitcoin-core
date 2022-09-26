@@ -27,7 +27,7 @@ A curated list of Bitcoin Core resources for contributors and developers.
 - [Bitcoin StackExchange](https://bitcoin.stackexchange.com/)
 
 ## Contributing to Bitcoin Core
-
+- [Bitcoin Core PR Review Club](https://bitcoincore.reviews/) - A weekly review club for Bitcoin Core PRs.
 - [Contributing guidelines](https://github.com/bitcoin/bitcoin/blob/master/CONTRIBUTING.md)
 - [Developer notes](https://github.com/bitcoin/bitcoin/blob/master/doc/developer-notes.md)
 - [High-priority for review pull requests](https://github.com/orgs/bitcoin/projects/1?query=is%3Aopen+sort%3Aupdated-desc)
