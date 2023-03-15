@@ -112,6 +112,7 @@ A curated list of Bitcoin Core resources for contributors and developers.
 
 - [convos](https://convos.chat/) - A web-based IRC client.
 - [Mnemonic code converter](https://iancoleman.io/bip39/)
+- [Bitcoin Technical Search](https://bitcoinsearch.xyz/) - A search engine tailored for technical bitcoin content
 
 ## Videos
 
