@@ -70,6 +70,8 @@ A curated list of Bitcoin Core resources for contributors and developers.
 
 ## Explorers
 
+- [3xpl](https://3xpl.com/bitcoin)
+- [Blockchair](https://blockchair.com/bitcoin)
 - [Blockstream Explorer](https://blockstream.info/)
 - [Mempool.space](https://mempool.space/)
 
